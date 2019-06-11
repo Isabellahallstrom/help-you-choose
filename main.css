@@ -1,0 +1,33 @@
+button {
+  background-color: purple;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px;
+}
+
+h1 {
+  font-weight: lighter;
+  font-size: 35px;
+  letter-spacing: 2px;
+  margin-bottom: 19px;
+}
+
+.inputSection {
+  margin: 6px 0px 15px 0px;
+  width: 400px;
+}
+
+.inputs {
+  width: inherit;
+  display: flex;
+  flex-direction: column;
+}
+
+.addOption {
+  margin-top: 10px;
+}
